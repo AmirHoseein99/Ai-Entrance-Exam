@@ -1,3 +1,3 @@
-Used Keras Tokenizer
-Normalized Length of the Sentences
-Embedding layer + GRU layer 
+Used Keras Tokenizer <br />
+Normalized Length of the Sentences <br />
+Embedding layer + GRU layer  <br />
