@@ -1,3 +1,1 @@
-Open in googleColab,
-
-delveloped two functions for the first two Questions
+برای هر سوال، یک تابع پیاده سازی شده است، که ابتدا آن را بر روی تمام جملات فایل ورودی اجرا کرده و سپس، جملات نهایی را بر روی فایل خروجی مینویسیم.
